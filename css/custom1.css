@@ -42,15 +42,15 @@ a:hover {
   background-color: #fcf7f8;
   color: #48a08f;
   vertical-align:middle;
-  text-align: right;
+  
 }
 
 .profilepic {
   max-width: 100%;
   vertical-align:middle;
   margin:auto;
-  text-align:left;
-  padding: 4rem 5rem 0rem;
+  
+  
 }
 
 /* Values
@@ -169,6 +169,7 @@ a:hover {
   }
   .hero {
     padding: 22rem 0;
+    text-align: right;
   }
   .hero-heading {
     color: #48a08f;
@@ -177,6 +178,8 @@ a:hover {
   .profilepic {
     top: 16rem;
     max-height: 615px;
+    text-align:left;
+    padding: 4rem 5rem 0rem;
   }
 
 }
